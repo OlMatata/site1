@@ -289,6 +289,7 @@ font-family: 'Oswald', sans-serif; */
   font-weight: 400;
   font-size: 14px;
   padding: 14px 30px;
+  cursor: pointer;
 }
 .request__img {
   margin-right: 15px;
@@ -447,6 +448,23 @@ font-family: 'Oswald', sans-serif; */
   }
 }
 
+.partners {
+  background-color: var(--dark-color);
+}
+.partners__h2 {
+}
+.text__h2 {
+}
+.partners__grid {
+}
+.partner__item {
+  height: 61px;
+  width: 170px;
+}
+.partner__item-img {
+}
+
+
 
 
 
@@ -473,6 +491,7 @@ font-family: 'Oswald', sans-serif; */
   cursor: pointer;
   overflow: hidden;
   font-weight: bold;
+  text-transform: uppercase;
 }
 
 span.one {
